@@ -7,7 +7,6 @@ in style by checking the boxes on the screen.
 
 The app is designed in Android Studio, whereas the code is written in java.
 
-Written by Nienke Luijcks (12469459)
 Minor Programming (2019)
 
 ![WhatsApp Image 2019-04-04 at 21 39 36 (3)](https://user-images.githubusercontent.com/47352243/55617116-b2051f80-5793-11e9-9ada-0ef6db399212.jpeg)
